@@ -446,7 +446,7 @@ html {
     top: 0;
     right: 0;
     color: #fff;
-    padding: 16px;
+    padding: 12px;
 }
 
 .modal-close:hover {
@@ -469,7 +469,7 @@ html {
 }
 
 .modal-label {
-    display: block;
+    display: flex;
     font-size: 15px;
 }
 
